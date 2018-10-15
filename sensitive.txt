@@ -51,3 +51,7 @@ www.apple.com
 pass.rzd.ru
 1password.eu
 1password.ca
+ird.govt.nz
+ato.gov.au
+realme.govt.nz
+tax.service.gov.uk
